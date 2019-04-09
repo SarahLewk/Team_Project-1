@@ -1,44 +1,16 @@
-# Gun Trends and Gun Violence
-Trends in the United States in relation to Gun Ownership, Gun Violence and Gun Legislation
+This analysis details gun deaths and gun violence in the US, and goes over trends, patterns, and misconceptions about the data commonly portrayed in the news and other media outlets.
 
 Group Name: Go Gitters
 
 Group Members: Sara Lewkowicz, Hunter Orrantia, Jack Ying, Deep Sran
 
-For project details and presentation, please see {our .pptx}
+For project details and presentation, please see our PowerPoint (.pptx).
 
-The following modules are required for Data Visualization
+Data used for this project was gathered from various sources:
 
-•	Seaborn
-
-•	Folium
-
-Repository structure
-
-•	Top-Level: Data acquisition and processing notebooks
-
-•	Data sub-folder: csv files from data acquisition step
-
-•	Charts sub-folder: Plot images from data processing step
-
-Top Level Folder Files
-
-Project Information
-
-•	
-
-Data Acquisition
-
-•	
-
-Data Processing
-
-•	
-
-Data Folder Files
-
-•	
-
-Charts Folder Files
-
-•	
+CDC
+US Census Bureau
+Gun Violence Archive website
+Kaggle
+FBI Uniform Crime Report
+ATF
