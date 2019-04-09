@@ -1,3 +1,5 @@
+Gun Trends and Gun Violence
+
 This analysis details gun deaths and gun violence in the US, and goes over trends, patterns, and misconceptions about the data commonly portrayed in the news and other media outlets.
 
 Group Name: Go Gitters
